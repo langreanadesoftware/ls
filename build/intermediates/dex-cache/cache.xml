@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/javierquiroscastillo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/javierquiroscastillo/Downloads/NavigationDrawerAndMasterDetail/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_e35a8bf689759aba202f221f5fce0ece64214431.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/javierquiroscastillo/.android/build-cache/853fb3183f69066b19d46704a2c595109cd30989/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/javierquiroscastillo/Downloads/NavigationDrawerAndMasterDetail/app/build/intermediates/pre-dexed/debug/classes_c037213b112e907a014ec9eae057c08cdd02f8e3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javierquiroscastillo/Downloads/NavigationDrawerAndMasterDetail/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d3dc8bc46aa56e7ed5945fc4a361ffaa3c8a365d">
+        <dex dex="/Users/javierquiroscastillo/Downloads/NavigationDrawerAndMasterDetail/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f83b922ab99314ce890565d94aa72d71e44dc089/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/javierquiroscastillo/Downloads/NavigationDrawerAndMasterDetail/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/javierquiroscastillo/Downloads/NavigationDrawerAndMasterDetail/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5a8c348e0390a8fa3bf3fff43afea8e155dcba49/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/javierquiroscastillo/.android/build-cache/56dd51ec3f059409e2811e4e40f1d6dd91c46abf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/javierquiroscastillo/Downloads/NavigationDrawerAndMasterDetail/app/build/intermediates/pre-dexed/debug/classes_baa8a727db17d2db476b55a5167cdc4b68f4c1d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/javierquiroscastillo/.android/build-cache/c512420599b946991e1d81d002695351c17bc080/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/javierquiroscastillo/Downloads/NavigationDrawerAndMasterDetail/app/build/intermediates/pre-dexed/debug/classes_f0bc2f5e4433c83983edcb5a45220388e75bd0b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/javierquiroscastillo/.android/build-cache/c512420599b946991e1d81d002695351c17bc080/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/javierquiroscastillo/Downloads/NavigationDrawerAndMasterDetail/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_489b0bde975a11eb8cc60a6823c20272a33f29ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/javierquiroscastillo/.android/build-cache/bb144d62f02f15bbbd56adf564eca7506715b14e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/javierquiroscastillo/Downloads/NavigationDrawerAndMasterDetail/app/build/intermediates/pre-dexed/debug/classes_44d985d25c20f56684d533beca53bbf0a4a3e84a.jar" />
+    </item>
+
+</items>
